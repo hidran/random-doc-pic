@@ -1,4 +1,4 @@
-name: CI/CD - React with Vite
+name: CI/CD - React with Vite deploy github
 
 on:
   push:
