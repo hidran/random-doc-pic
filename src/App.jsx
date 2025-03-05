@@ -2,8 +2,8 @@ import DogImage from "./components/DogImage";
 
 function App() {
   return (
-    <div>
-      <h1>Random Dog Image</h1>
+    <div className="text-center">
+      <h1 className="text-3xl font-bold mb-6">Random Dog Image</h1>
       <DogImage />
     </div>
   );
