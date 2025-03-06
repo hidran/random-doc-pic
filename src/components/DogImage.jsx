@@ -18,7 +18,7 @@ function DogImage() {
 
     return (
         <div className="flex flex-col items-center justify-center p-6 bg-gray-100 rounded-lg shadow-lg">
-            <h2 className="text-2xl font-semibold text-gray-800 mb-4 text-center">
+            <h2 className="text-3xl font-semibold text-gray-800 mb-4 text-center">
                 🐶 Random Dog Viewer
             </h2>
 
